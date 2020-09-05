@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Nancy, currently a Software Engineer Intern at Microsoft Garage and a Computer Science student at the University of Toronto.
+I'm Nancy, currently a Software Developer Intern at Shopify Plus and a Computer Science student at the University of Toronto.
 Feel free to reach out! 😊
 
 <!--

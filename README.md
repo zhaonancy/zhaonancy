@@ -2,4 +2,4 @@
 
 I'm Nancy! 😄
 
-Software Engineer Intern at Snap and Computer Science student at the University of Toronto.
+Software Engineer Intern at Microsoft and Computer Science student at the University of Toronto.
